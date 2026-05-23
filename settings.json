@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Survivalsmp-pUWI.aternos.me",
-    "port": "40720,
+    "port": 40720,
     "version": "1.21.11",
     "try-creative": false
   },
